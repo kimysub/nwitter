@@ -1,0 +1,6 @@
+***** Please use the script in bin/code-server instead!
+***** This script will soon be removed!
+***** See the release notes at https://github.com/cdr/code-server/releases/tag/v3.4.0
+[2021-09-11T03:53:40.966Z] info  code-server 3.11.1 c680aae973d83583e4a73dc0c422f44021f0140e
+[2021-09-11T03:53:40.966Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-09-11T03:53:40.970Z] error listen EADDRINUSE: address already in use 0.0.0.0:8080
